@@ -3,6 +3,8 @@ Fighting against misinformation and hate speech on Twitter using scalable semant
 
 Project page: https://devpost.com/software/ribitter
 
+Live on: http://18.133.188.73:5000/
+
 ## Overview
 
 Current [muting feature of twitter](https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options) allows users filter tweets **based on words and hashtags**.
