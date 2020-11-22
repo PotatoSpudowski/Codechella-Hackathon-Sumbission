@@ -1,16 +1,16 @@
 # Codechella-Hackathon-Sumbission
-
-
-Overpowering Twitter muting feature to improve Twitter users exprience. 
+Fighting against misinformation and hate speech on Twitter using scalable semantic matching and user-specific top filtering systems based personal triggers.
 
 
 ## Overview
-Current [muting feature of twitter](https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options) allows users filter tweets **based on words and hashtag**.
+
+Project page: https://devpost.com/software/ribitter
+
+Current [muting feature of twitter](https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options) allows users filter tweets **based on words and hashtags**.
 
 But users do not want to mute words or hasgtags, they want to mute **specific topics, behaviors and missinformation**.
 
 We have created a tool to achieve this with current state of the art in machine learning applied to NLP.
-
 
 ## Installation
 
@@ -24,6 +24,3 @@ You will need to run these 3 repositories.
 
 Installation instructions are available on the README of each one of them.
 
-
-## LICENSE
-Mit
