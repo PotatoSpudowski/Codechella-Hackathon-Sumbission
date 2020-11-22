@@ -1,5 +1,5 @@
 # Codechella-Hackathon-Sumbission
-Fighting against misinformation and hate speech on Twitter using scalable semantic matching and user-specific top filtering systems based personal triggers.
+Fighting against misinformation and hate speech on Twitter using scalable semantic matching and user-specific topic filtering systems based personal triggers.
 
 Project page: https://devpost.com/software/ribitter
 
