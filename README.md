@@ -1,10 +1,9 @@
 # Codechella-Hackathon-Sumbission
 Fighting against misinformation and hate speech on Twitter using scalable semantic matching and user-specific top filtering systems based personal triggers.
 
+Project page: https://devpost.com/software/ribitter
 
 ## Overview
-
-Project page: https://devpost.com/software/ribitter
 
 Current [muting feature of twitter](https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options) allows users filter tweets **based on words and hashtags**.
 
