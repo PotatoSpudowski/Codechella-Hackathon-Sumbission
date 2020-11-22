@@ -16,10 +16,14 @@ We have created a tool to achieve this with current state of the art in machine 
 
 Our project have 3 repositories:
 
-1. [Frontend](https://github.com/PotatoSpudowski/Ribitter-web)
-2. [Muting Service](https://github.com/PotatoSpudowski/Elixr)
-3. [Missinformation Service](https://github.com/PotatoSpudowski/MisMatch)
+1. [Frontend](https://github.com/PotatoSpudowski/Ribitter-web) an incredible twitter clone web to showcase our advancements.
+2. [Muting Service](https://github.com/PotatoSpudowski/Elixr), tweets filter service based on user preferences and topic substraction.
+3. [Missinformation Service](https://github.com/PotatoSpudowski/MisMatch), checking missinformation service.
 
 You will need to run these 3 repositories.
 
 Installation instructions are available on the README of each one of them.
+
+
+## LICENSE
+Mit
